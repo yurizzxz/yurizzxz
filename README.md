@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Tenho 17 anos e estou atualmente cursando técnico em desenvolvimento de sistemas. Gosto de explorar e criar experiências dentro do mundo de desenvolvimento front-end e design gráfico.</p>
+<p align="left">Olá! Me chamo Yuri Alves, tenho 17 anos. Gosto de explorar e criar experiências dentro do mundo de desenvolvimento front-end e design gráfico.</p>
+
+
+<p>✅ Técnico em Desenvolvimento de Sistemas na ETEC Itu</p>
+<p>✅ Cursando Análise e Desenvolvimento de Sistemas na Fatec Itu</p>
+
+
 
 ###
 

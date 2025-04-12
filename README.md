@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Yuri Alves, tenho 17 anos. Gosto de explorar e criar experiências dentro do mundo de desenvolvimento front-end e design gráfico.</p>
+<p align="left">Olá! Me chamo Yuri Alves, tenho 17 anos. Gosto de explorar e criar experiências dentro do mundo de desenvolvimento Front-end e Design Gráfico.</p>
 
 
 <p>✅ Técnico em Desenvolvimento de Sistemas na ETEC Itu</p>

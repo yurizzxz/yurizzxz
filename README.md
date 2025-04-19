@@ -68,8 +68,3 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">Yuri Alves</h2>
-
-###
